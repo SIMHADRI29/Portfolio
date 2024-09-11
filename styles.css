@@ -58,13 +58,14 @@ body{
   /* padding-bottom: 2rem; */
 } 
 .logo {
-  color:#b4f8c8;
+  color:orange;
   display: flex;
   align-items: center;
   position: relative; 
-  text-transform: uppercase;
-  font-size: 26px;
+  /* text-transform: uppercase; */
+  font-size: 40px;
   font-weight: 700;
+  font-family:  'Old English Text MT', 'Cloister Black', 'Blackletter', serif;
 }
 
 .logo .fa-bolt {
@@ -484,6 +485,7 @@ strong{
 .certifications-content .row{
   
   display: flex;
+  column-gap: 10px;
   border-radius: 5px;
   height: 400px;
   margin-bottom: 250px;
