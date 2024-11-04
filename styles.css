@@ -67,7 +67,9 @@ body{
   font-weight: 700;
   font-family:  'Old English Text MT', 'Cloister Black', 'Blackletter', serif;
 }
-
+.logo .span{
+  font-family:"Monoton";
+}
 .logo .fa-bolt {
   color: #fed700;
   font-size: 19.5px;
